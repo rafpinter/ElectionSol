@@ -4,7 +4,7 @@
 //
 //  The two-round system (also known as the second ballot, runoff voting or ballotage) is a voting 
 //      method used to elect a single winner, where the voter casts a single vote for their chosen candidate. 
-//      Despite its name, the two-round system may resolve an election in a single round if one candidate 
+//  Despite its name, the two-round system may resolve an election in a single round if one candidate 
 //      receives enough of the vote, usually a simple majority.[1] If no candidate receives enough of the 
 //      vote in the first round, then a second round of voting is held with either just the top two candidates or 
 //      all candidates who received a certain proportion of the votes. 
